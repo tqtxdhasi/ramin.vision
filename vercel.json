@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/pro",
-      "destination": "https://www.ramin.vision/proc",
+      "destination": "/proc.html",
       "permanent": true
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "source": "/project",
-      "destination": "https://www.ramin.vision/purpose",
+      "destination": "/purpose.html",
       "permanent": true
     },
     {
       "source": "/nft",
-      "destination": "/23pijr4opifhj3rfrpnvr",
+      "destination": "/23pijr4opifhj3rfrpnvr.html",
       "permanent": true
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "source": "/about-me",
-      "destination": "https://www.ramin.vision/about",
+      "destination": "/about.html",
       "permanent": true
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "source": "/purpose-3",
-      "destination": "https://www.ramin.vision/purpose",
+      "destination": "/purpose.html",
       "permanent": true
     },
     {
       "source": "/purpose-meditation",
-      "destination": "https://www.ramin.vision/blank",
+      "destination": "/blank.html",
       "permanent": true
     },
     {
