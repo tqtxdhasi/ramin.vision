@@ -1,0 +1,74 @@
+{
+  "redirects": [
+    {
+      "source": "/pro",
+      "destination": "https://www.ramin.vision/proc",
+      "permanent": true
+    },
+    {
+      "source": "/cv",
+      "destination": "https://drive.google.com/file/d/1fH9aLjIDtgZIkQaMzWvz2f03q2y6dqz_/view?usp=sharing",
+      "permanent": true
+    },
+    {
+      "source": "/project",
+      "destination": "https://www.ramin.vision/purpose",
+      "permanent": true
+    },
+    {
+      "source": "/nft",
+      "destination": "https://www.ramin.vision/23pijr4opifhj3rfrpnvr",
+      "permanent": true
+    },
+    {
+      "source": "/resume",
+      "destination": "https://drive.google.com/file/d/1fH9aLjIDtgZIkQaMzWvz2f03q2y6dqz_/view?usp=sharing",
+      "permanent": true
+    },
+    {
+      "source": "/innovation",
+      "destination": "https://drive.google.com/uc?export=download&id=1ekgiJGEwO0BvmHtfzupNW4t737Eo3Udx",
+      "permanent": true
+    },
+    {
+      "source": "/about-me",
+      "destination": "https://www.ramin.vision/about",
+      "permanent": true
+    },
+    {
+      "source": "/calendar",
+      "destination": "https://calendly.com/raminvision/calendar",
+      "permanent": true
+    },
+    {
+      "source": "/purpose-3",
+      "destination": "https://www.ramin.vision/purpose",
+      "permanent": true
+    },
+    {
+      "source": "/purpose-meditation",
+      "destination": "https://www.ramin.vision/blank",
+      "permanent": true
+    },
+    {
+      "source": "/discovery",
+      "destination": "https://drive.google.com/uc?export=download&id=12bAQUZOXqFVHOCTn2QZ9b6ZzHd3n3_fu",
+      "permanent": true
+    },
+    {
+      "source": "/decision",
+      "destination": "https://drive.google.com/uc?export=download&id=1CCQhg67_LvPk5M2P84nDjAHv1wmqQMUw",
+      "permanent": true
+    },
+    {
+      "source": "/preview",
+      "destination": "https://docs.google.com/document/d/1JH7lse5HmObpHduxJ1amMO4ynH3vXjjb/edit?usp=sharing&ouid=110264933146795409149&rtpof=true&sd=true",
+      "permanent": true
+    },
+    {
+      "source": "/requestaccess",
+      "destination": "https://docs.google.com/document/d/1WA3bAjACbkhMYAi7xiZTq5UO29Tqxsb3/edit?usp=sharing&ouid=110264933146795409149&rtpof=true&sd=true",
+      "permanent": true
+    }
+  ]
+}
