@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/product",
+      "destination": "/product.html",
+      "permanent": true
+    },
+    {
       "source": "/cv",
       "destination": "https://drive.google.com/file/d/1fH9aLjIDtgZIkQaMzWvz2f03q2y6dqz_/view?usp=sharing",
       "permanent": true
@@ -21,6 +26,11 @@
       "permanent": true
     },
     {
+      "source": "/23pijr4opifhj3rfrpnvr",
+      "destination": "/23pijr4opifhj3rfrpnvr.html",
+      "permanent": true
+    },
+    {
       "source": "/resume",
       "destination": "https://drive.google.com/file/d/1fH9aLjIDtgZIkQaMzWvz2f03q2y6dqz_/view?usp=sharing",
       "permanent": true
@@ -32,6 +42,11 @@
     },
     {
       "source": "/about-me",
+      "destination": "/about.html",
+      "permanent": true
+    },
+    {
+      "source": "/about",
       "destination": "/about.html",
       "permanent": true
     },
