@@ -84,6 +84,31 @@
       "source": "/requestaccess",
       "destination": "https://docs.google.com/document/d/1WA3bAjACbkhMYAi7xiZTq5UO29Tqxsb3/edit?usp=sharing&ouid=110264933146795409149&rtpof=true&sd=true",
       "permanent": true
+    },
+    {
+      "source": "/proceso",
+      "destination": "/proceso.html",
+      "permanent": true
+    },
+    {
+      "source": "/instantproductmanager",
+      "destination": "/instantproductmanager.html",
+      "permanent": true
+    },
+    {
+      "source": "/product-course",
+      "destination": "/product-course.html",
+      "permanent": true
+    },
+    {
+      "source": "/purpose-guide",
+      "destination": "/purpose-guide.html",
+      "permanent": true
+    },
+    {
+      "source": "/purpose",
+      "destination": "/purpose.html",
+      "permanent": true
     }
   ]
 }
