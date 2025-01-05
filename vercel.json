@@ -109,6 +109,11 @@
       "source": "/purpose",
       "destination": "/purpose.html",
       "permanent": true
+    },
+    {
+      "source": "/udemy",
+      "destination": "https://www.udemy.com/course/the-fastest-way-to-become-a-product-manager/",
+      "permanent": true
     }
   ]
 }
