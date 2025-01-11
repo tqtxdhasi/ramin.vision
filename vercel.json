@@ -114,6 +114,11 @@
       "source": "/udemy",
       "destination": "https://www.udemy.com/course/the-fastest-way-to-become-a-product-manager/",
       "permanent": true
+    },
+    {
+      "source": "/decision",
+      "destination": "https://docs.google.com/spreadsheets/d/19unnxIX1GxI9PXj-Xsu7_q19W6Qy03Ae/edit?usp=sharing&ouid=110264933146795409149&rtpof=true&sd=true",
+      "permanent": true
     }
   ]
 }
