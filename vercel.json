@@ -71,11 +71,6 @@
       "permanent": true
     },
     {
-      "source": "/decision",
-      "destination": "https://drive.google.com/uc?export=download&id=1CCQhg67_LvPk5M2P84nDjAHv1wmqQMUw",
-      "permanent": true
-    },
-    {
       "source": "/preview",
       "destination": "https://docs.google.com/document/d/1JH7lse5HmObpHduxJ1amMO4ynH3vXjjb/edit?usp=sharing&ouid=110264933146795409149&rtpof=true&sd=true",
       "permanent": true
